@@ -1,0 +1,7 @@
+{
+  "name": "Margdarshak - AI Job Assistant",
+  "description": "A conversational, low-literacy friendly job discovery portal for blue and grey-collar workers in India. It uses Gemini Live to guide seekers through profile building, role discovery, and personalized learning roadmaps.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
