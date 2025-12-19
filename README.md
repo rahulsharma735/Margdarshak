@@ -32,10 +32,6 @@ npm install
 ### 3. API Key Configuration
 You **must** create a file named `.env` in the root folder. You can do this by running this exact command in your terminal:
 
-```bash
-echo "API_KEY=your_actual_gemini_key_here" > .env
-```
-*Note: Go to [aistudio.google.com](https://aistudio.google.com/) to get your API key.*
 
 ### 4. Start Development
 ```bash
